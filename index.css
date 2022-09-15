@@ -1,0 +1,20 @@
+body{
+    margin: 0 auto; text-align: center; 
+    background-image: url(img/indir1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+header{
+    font-size: larger;
+    color: royalblue;
+}
+section{
+    color : rgb(253, 236, 4);
+    font-size: larger;
+}
+footer{
+    font-size: larger;
+    color :rgb(8, 163, 240);
+}
+
+
